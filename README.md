@@ -5,7 +5,6 @@
 
 ## **Visualization**
 
-![Power BI Dashboard]
 <img width="1724" height="834" alt="power_bi_dashboard" src="https://github.com/user-attachments/assets/3f138510-73f7-4b86-b52c-9cfa9d776712" />
 
 ## **Project Structure**
